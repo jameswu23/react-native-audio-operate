@@ -1,6 +1,6 @@
 {
   "name": "react-native-audio-operate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Native Audio Compound",
   "main": "index.js",
   "types": "index.d.ts",
