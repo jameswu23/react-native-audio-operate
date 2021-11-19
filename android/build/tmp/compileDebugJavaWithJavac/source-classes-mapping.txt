@@ -1,0 +1,6 @@
+com/audio/operate/BuildConfig.java
+ com.audio.operate.BuildConfig
+com/beefe/picker/RNAudioOperatePackage.java
+ com.audio.operate.RNAudioOperatePackage
+com/beefe/picker/RNAudioOperateModule.java
+ com.audio.operate.RNAudioOperateModule
