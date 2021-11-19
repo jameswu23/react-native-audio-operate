@@ -1,6 +1,6 @@
 {
   "name": "react-native-audio-operate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Native Audio Compound",
   "main": "index.js",
   "types": "index.d.ts",
@@ -8,8 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git@github.com:jameswu23/react-native-audio-operate.git"
   },
   "author": "JamesWu",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/jameswu23/react-native-audio-operate.git"
 }
