@@ -1,6 +1,6 @@
 "use strict";
-import { NativeModules } from "react-native";
-const RNAudioOperate = NativeModules.RNAudioOperateModule
+import { NativeModules,Platform } from "react-native";
+const RNAudioOperate = Platform === 'android'? NativeModules.RNAudioOperateModule:NativeModules.RNAudioOperate
 
 const AudioOperate = {
     mergeAudios: (paths,audioPath,cb)=>{
